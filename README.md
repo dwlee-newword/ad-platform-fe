@@ -40,6 +40,15 @@
 
 ---
 
-## 7. README.md 작성사항 메모
+## 7. 사용 도구
+
+- [stitch](https://stitch.withgoogle.com/)
+
+---
+
+## 8. README.md 작성사항 메모
+
+- 실제 개발 시 lint 관련 설정을 더 strict하게 하지만 과제이며 협업이 필요 없으므로 최소한으로 설정
+- lint로 build error 발생 시킬 항목들을 대부분 warn 처리
 
 ---
