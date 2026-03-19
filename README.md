@@ -50,5 +50,8 @@
 
 - 실제 개발 시 lint 관련 설정을 더 strict하게 하지만 과제이며 협업이 필요 없으므로 최소한으로 설정
 - lint로 build error 발생 시킬 항목들을 대부분 warn 처리
+- API 관련 정보는 실제 작업 환경에서는 별도로 관리
+- 외부 UI 라이브러리 shadcn/ui
+- 평소에는 chakra ui를 많이 썼는데 시간 관계상 claude code를 많이 사용하여 shadcn/ui 사용
 
 ---

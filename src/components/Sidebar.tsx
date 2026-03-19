@@ -24,7 +24,7 @@ export default function Sidebar() {
                   href={item.href}
                   className={
                     isActive
-                      ? 'flex items-center rounded-lg bg-blue-50 px-4 py-3 text-sm font-semibold text-blue-600'
+                      ? 'flex items-center rounded-lg bg-primary-subtle px-4 py-3 text-sm font-semibold text-primary'
                       : 'flex items-center rounded-lg px-4 py-3 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-gray-900'
                   }
                 >
